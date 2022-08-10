@@ -4,7 +4,7 @@ Salutations there! My name is Bakhtiyar and i am an aspiring Web Developer, writ
 
 - 🔭 I’m currently working on: migrating existing vanilla JS projects to React.
 - 🌱 I’m currently learning Design Patterns
-- ⚡ Fun fact: I'm an honorable blood donor.
+- ⚡ Fun fact: I'm an honorable blood donor🩸 and play guitar reasonably well.
 <!--
 **bakhtiyark/bakhtiyark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
